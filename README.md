@@ -1,2 +1,1 @@
-# slony-hakaton
-# slony-hakaton
+# solony-hakaton
